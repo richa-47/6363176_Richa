@@ -144,3 +144,4 @@ C:\Users\KIIT\OneDrive\Desktop\RetailInventory\obj\Debug\net9.0\refint\RetailInv
 C:\Users\KIIT\OneDrive\Desktop\RetailInventory\obj\Debug\net9.0\RetailInventory.pdb
 C:\Users\KIIT\OneDrive\Desktop\RetailInventory\obj\Debug\net9.0\RetailInventory.genruntimeconfig.cache
 C:\Users\KIIT\OneDrive\Desktop\RetailInventory\obj\Debug\net9.0\ref\RetailInventory.dll
+C:\Users\KIIT\OneDrive\Desktop\RetailInventory\obj\Debug\net9.0\RetailInventory.sourcelink.json

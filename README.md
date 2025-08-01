@@ -7,7 +7,7 @@ This repository contains the solutions and implementation of a hands-on technica
 The assignment is designed to evaluate:
 - Problem-solving skills
 - Code quality and readability
-- Understanding of algorithms and data structures (if applicable)
-- API design / backend development / frontend implementation (customize based on your task)
+- Understanding of algorithms and data structures 
+- API design / backend development / frontend implementation 
 - Ability to follow software development best practices
 
